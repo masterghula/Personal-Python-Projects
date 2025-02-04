@@ -1,0 +1,50 @@
+Hours from 1 to 7 December
+Monday:2.0
+Tuesday:2.0
+Wednesday:2.0
+Thursday:2.0
+Friday:2.0
+Saturday:2.0
+Sunday:2.0
+Total for this week is 14.0
+
+Hours from 7 to 13 December
+Monday:2.0
+Tuesday:2.0
+Wednesday:2.0
+Thursday:2.0
+Friday:2.0
+Saturday:2.0
+Sunday:2.0
+Total for this week is 14.0
+
+Hours from 13 to 19 December
+Monday:2.0
+Tuesday:2.0
+Wednesday:2.0
+Thursday:2.0
+Friday:2.0
+Saturday:2.0
+Sunday:2.0
+Total for this week is 14.0
+
+Hours from 19 to 25 December
+Monday:2.0
+Tuesday:2.0
+Wednesday:2.0
+Thursday:2.0
+Friday:2.0
+Saturday:2.0
+Sunday:2.0
+Total for this week is 14.0
+
+Hours from 25 to 31 December
+Monday:2.0
+Tuesday:2.0
+Wednesday:2.0
+Thursday:2.0
+Friday:2.0
+Saturday:2.0
+Sunday:2.0
+Total for this week is 14.0
+
